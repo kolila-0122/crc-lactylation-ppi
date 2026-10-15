@@ -1,0 +1,8 @@
+# Requirements for the CRC pyruvate-partitioning / lactylation analysis
+# Python 3.13 (tested)
+numpy
+pandas
+scipy
+anndata
+matplotlib
+python-docx

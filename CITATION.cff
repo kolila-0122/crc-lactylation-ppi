@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Pyruvate partitioning and lactylation writer/eraser machinery in colorectal cancer: analysis code"
+abstract: >-
+  Analysis code and intermediate results reproducing all reported correlations
+  in a multi-cohort systems analysis of pyruvate partitioning and the histone
+  lactylation writer/eraser machinery across bulk, single-cell and spatial
+  transcriptomic layers in colorectal cancer.
+type: software
+authors:
+  - family-names: "Bin"
+    given-names: "Lian"
+    email: "drmilo@gkd.edu.cn"
+    affiliation: "School of Health, Guangzhou Vocational University of Science and Technology"
+    orcid: "https://orcid.org/0000-0002-1477-9137"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-15"
+keywords:
+  - colorectal cancer
+  - lactylation
+  - pyruvate metabolism
+  - spatial transcriptomics
+  - single-cell
+  - bioinformatics

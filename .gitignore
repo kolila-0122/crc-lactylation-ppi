@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data (not hosted here; download from the original public repositories)
+data/
+*.h5ad
+*.pkl
+*.rds
+*.mtx
+*.gz
+
+# Figures / outputs generated at run time
+figures/
+*.tif
+*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
